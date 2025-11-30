@@ -1,6 +1,10 @@
 # Clash for Android 下载软件教程分享
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashforAndroid" src="https://github.com/user-attachments/assets/028bef3f-8553-470a-ad30-7b767e348e18" />
+</div>
+<br>
 
 ## :memo: Clash for Android 节点资源
 
